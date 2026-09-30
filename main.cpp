@@ -109,6 +109,3 @@ int main()
 
     return 0;
 }
-Error correction & text sequencing : para-jumbles (fixed and movable), verbal clues to solve
-
-para-jumbles, sentence completion—single and double blanks, elimination techniques. tommorow is my ca i am in 5th semester so please give me mcq on these topic with right option and explaination on each topic of btech level 
